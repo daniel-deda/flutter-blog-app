@@ -1,16 +1,9 @@
 # blog_app
 
-A new Flutter project.
+A full-stack Flutter blog app that allows users to upload and view blogs (also allows picture upload).
 
-## Getting Started
+# How to run
 
-This project is a starting point for a Flutter application.
+To run the project, clone the repository to your machine and run the command **flutter run** once you cd into the main folder and the project should run.
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+*Note: Please contact me at danieldeda165@gmail.com if you have any issues with the code or running it*
